@@ -1,7 +1,7 @@
-package trabalho.java.lista.exercicios.service;
+package trabalho.java.lista.exercicios.Livro.service;
 
-import trabalho.java.lista.exercicios.entity.Livro;
-import trabalho.java.lista.exercicios.repository.LivroRepository;
+import trabalho.java.lista.exercicios.Livro.entity.Livro;
+import trabalho.java.lista.exercicios.Livro.repository.LivroRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

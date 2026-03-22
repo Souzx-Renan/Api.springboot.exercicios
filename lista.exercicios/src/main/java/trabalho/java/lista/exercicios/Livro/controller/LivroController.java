@@ -1,7 +1,7 @@
-package trabalho.java.lista.exercicios.controller;
+package trabalho.java.lista.exercicios.Livro.controller;
 
-import trabalho.java.lista.exercicios.entity.Livro;
-import trabalho.java.lista.exercicios.service.LivroService;
+import trabalho.java.lista.exercicios.Livro.entity.Livro;
+import trabalho.java.lista.exercicios.Livro.service.LivroService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

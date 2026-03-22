@@ -1,4 +1,4 @@
-package trabalho.java.lista.exercicios.entity;
+package trabalho.java.lista.exercicios.Livro.entity;
 
 import jakarta.persistence.*;
 

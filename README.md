@@ -1,7 +1,8 @@
 Autores:
-Renan Souza
 
-Filipe Mello
+Renan Souza. RA: 24042082-2
+
+Filipe Mello. RA: 24159233-2
 
 # API REST com Spring Boot — Exercícios de CRUD
 
